@@ -30,7 +30,7 @@ Welcome to the **Hotel Management System** project! This system is designed to s
    ```bash
    git clone https://github.com/shyamsunder0717/Hotel-Management-System.git
 
-   ## Usage
+## Usage
 After successfully installing and setting up the Hotel Management System, you can start using its features:
 
 1. **Login**: Start the application and log in using your credentials. Different user roles (Admin, Receptionist, etc.) will have different access levels.
