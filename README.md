@@ -1,6 +1,6 @@
 # Hotel Management System
 
-![Hotel Management System](https://example.com/path/to/your/project/image.png)
+![Hotel Management System](https://github.com/shyamsunder0717/Hotel-Management-System/blob/main/src/images/hotel%20transal.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
